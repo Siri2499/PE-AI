@@ -34,7 +34,7 @@ else:
 ----
 
 
-+*Out[1]:*+
++*Out[1]:
 ----
 enter the year for zodiacsign2000
 Dragon
